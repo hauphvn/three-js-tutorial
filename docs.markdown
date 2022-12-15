@@ -11,4 +11,8 @@
 - Three có nhiều loại hình học để thể hiện: hình vuông, nón, tròn...
 - Mỗi loại hnh có thể kết hợp với ``material``
 - ``geometry`` + ``material`` = ``mesh``
+
+### Depth Material
+
+- Distance closer is darker, farther away points become whiter.
 - 
