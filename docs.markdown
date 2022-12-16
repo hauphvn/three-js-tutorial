@@ -1,3 +1,5 @@
+### Viewing: 3.Hemisphere Light
+
 ### Scene, Camera, Renderer
 
 - Tấc cả những gì muốn hiển thị lên app sẽ được thêm vào trong ``scene``
